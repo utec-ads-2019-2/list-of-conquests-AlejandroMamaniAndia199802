@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/albin/Desktop/Documents/GitHub/ALGORITMOS/list-of-conquests-AlejandroMamaniAndia199802/main.cpp
+iostream
+-
+stdio.h
+-
+set
+-
+algorithm
+-
+map
+-
+
